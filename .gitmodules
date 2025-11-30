@@ -1,0 +1,9 @@
+[submodule "CIS_525-AI_Powered_Itinerary_Generator"]
+	path = CIS_525-AI_Powered_Itinerary_Generator
+	url = git@github.com:dkshitij29/CIS_525-AI_Powered_Itinerary_Generator.git
+[submodule "cis525_backend"]
+	path = cis525_backend
+	url = git@github.com:dkshitij29/cis525_backend.git
+[submodule "cis525-frontend"]
+	path = cis525-frontend
+	url = git@github.com:wasifahhme/cis525-frontend.git
