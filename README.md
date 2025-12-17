@@ -115,5 +115,6 @@ Database documentation and CRUD operation guides are located in `cis525_backend/
 -----
 
 **Note:** This project is part of the CIS 525 coursework.
+**Disclaimer**: The project API keys are shut down by the admin. Due to increased OPEX.
 
 -----
